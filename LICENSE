@@ -1,0 +1,11 @@
+Vivi Player — original application, tests, scripts and documentation
+
+Copyright (c) 2026 Vivi Player contributors.
+
+The original application source code, tests, scripts and documentation in this repository is licensed under the GNU General Public License, version 3 only (GPL-3.0-only). The complete license text is in COPYING.
+
+Generated fixtures identified in tools/README.md are also expressly granted under GPL-3.0-only.
+
+This statement does not replace or relicense any third-party dependency, binary framework, artwork, font, or media asset. Their copyright and license terms remain with their respective rightsholders. See THIRD_PARTY_NOTICES.md and the pinned Package.resolved.
+
+If you contribute code, confirm you have the right to submit it under GPL-3.0-only. Distribution of a binary that links third-party libraries requires a separate review of the actual included binaries and their corresponding sources and notices; publishing this repository alone is not a binary-distribution clearance.
